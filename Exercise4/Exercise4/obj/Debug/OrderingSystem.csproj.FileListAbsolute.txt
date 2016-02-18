@@ -25,3 +25,6 @@ C:\Users\RJ Xirc\Desktop\Exercise4\Exercise4\obj\Debug\OrderingSystem.csprojReso
 C:\Users\RJ Xirc\Desktop\Exercise4\Exercise4\obj\Debug\Exercise4.OrderingSystem.resources
 C:\Users\RJ Xirc\Desktop\Exercise4\Exercise4\obj\Debug\Exercise4.Properties.Resources.resources
 C:\Users\RJ Xirc\Desktop\Exercise4\Exercise4\obj\Debug\OrderingSystem.csproj.GenerateResource.Cache
+C:\Users\RJ Xirc\Desktop\Practice-repo\Exercise4\Exercise4\bin\Debug\Exercise4.exe.config
+C:\Users\RJ Xirc\Desktop\Practice-repo\Exercise4\Exercise4\obj\Debug\Exercise4.exe
+C:\Users\RJ Xirc\Desktop\Practice-repo\Exercise4\Exercise4\obj\Debug\Exercise4.pdb
